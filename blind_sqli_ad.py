@@ -1,8 +1,8 @@
 import requests
 from tqdm import tqdm
 
-# 1. 환경 설정 (실제 값으로 수정)
-url = "http://host8.dreamhack.games:15513/" 
+
+url = "" 
 pw_length = 0
 result = ""
 
