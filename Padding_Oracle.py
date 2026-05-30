@@ -3,7 +3,7 @@ import base64
 import re
 
 BLOCK_SIZE = 16
-host = "http://127.0.0.1:8080"
+host = ""
 session = requests.session()
 
 req = requests.get(host+"/gb/1",).json()
