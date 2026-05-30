@@ -3,7 +3,7 @@ import requests
 import random
 
 alphanumeric = string.ascii_lowercase + string.digits
-host = "http://host8.dreamhack.games:13715/"
+host = ""
 datas = {
     'locker_num':'',
     'password':''
