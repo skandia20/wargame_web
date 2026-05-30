@@ -4,7 +4,7 @@ import requests
 from tqdm import tqdm 
 import time
 
-host = "http://host8.dreamhack.games:23183/guess"
+host = ""
 res = 0
 
 for i in tqdm(range(5001, 10001)):
