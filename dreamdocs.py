@@ -3,7 +3,7 @@ import tqdm
 import re
 
 header = {
-    'Referer':'http://host8.dreamhack.games:13369/share',
+    'Referer':'',
     'X-User':'admin'
 }
 for _ in tqdm.tqdm(range(100,999)):
