@@ -2,7 +2,7 @@ import requests
 import re
 import string
 
-host = "http://host8.dreamhack.games:8967/login"
+host = ""
 uid = ["guest", "hack", "apple", "melon", "testuser", "admin", "aaaa", "cream", "berry", "ice", "panda"]
 result = []
 headers = {"Content-Type":"application/json"}
