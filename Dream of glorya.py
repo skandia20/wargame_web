@@ -1,6 +1,6 @@
 import requests
 
-host = 'http://host8.dreamhack.games:19306/login'
+host = ''
 TESTVAL = "ID or Password is incorrect!"
 datas = {
     "id":"Admin",
